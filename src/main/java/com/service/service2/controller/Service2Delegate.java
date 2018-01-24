@@ -9,6 +9,6 @@ public class Service2Delegate {
     public String helloworld(String name){
 
         // Do Some Magic Here!
-        return name;
+        return "hello, " + name;
     }
 }
